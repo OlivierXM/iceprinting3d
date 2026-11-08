@@ -1,0 +1,28 @@
+# Outputs
+Outputs*/
+Test*/
+Archive*/
+
+# Generated Files
+__pycache__/
+*.avi
+*:Zone.Identifier
+
+# Data
+*.csv
+*.png
+*.jpg
+
+# Latex Files
+*.abs
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+Manuscript/*.pdf
+
+# Debug
+*[Tt]est.py
+Notes.md
